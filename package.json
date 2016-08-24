@@ -1,6 +1,6 @@
 {
   "name": "netsi-dummy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Dummy NPM package expect nothing",
   "main": "index.js",
   "scripts": {
