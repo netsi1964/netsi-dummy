@@ -1,0 +1,23 @@
+{
+  "name": "netsi-dummy",
+  "version": "1.0.0",
+  "description": "Dummy NPM package expect nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netsi1964/netsi-dummy.git"
+  },
+  "keywords": [
+    "dummy",
+    "npm"
+  ],
+  "author": "Sten Hougaard <sho@kamstrup.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netsi1964/netsi-dummy/issues"
+  },
+  "homepage": "https://github.com/netsi1964/netsi-dummy#readme"
+}
